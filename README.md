@@ -1,4 +1,18 @@
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 📱 Crypto Tracker App 
 This app displays real-time cryptocurrency data—including current prices and 24-hour changes—using the CoinCap API. It features:
 * 💡 Modern Android Architecture
